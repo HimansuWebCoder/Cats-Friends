@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cats-Friends/static/css/main.33bb5df3.css",
+    "main.js": "/Cats-Friends/static/js/main.5fcfcfa0.js",
+    "index.html": "/Cats-Friends/index.html",
+    "main.33bb5df3.css.map": "/Cats-Friends/static/css/main.33bb5df3.css.map",
+    "main.5fcfcfa0.js.map": "/Cats-Friends/static/js/main.5fcfcfa0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33bb5df3.css",
+    "static/js/main.5fcfcfa0.js"
+  ]
+}
